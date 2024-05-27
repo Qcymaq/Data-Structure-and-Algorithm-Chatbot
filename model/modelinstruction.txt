@@ -1,6 +1,6 @@
 # Download Model
 # I have choosen 4bit model
-llama-2-7b-chat.ggmlv3.q4_0.bin
+llama-2-7b-chat.ggmlv3.q5_1.bin
 
 # From the following link
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
