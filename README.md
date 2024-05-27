@@ -44,3 +44,17 @@ python app.py
 ### Access the Chatbot:
 
 Open your web browser and go to http://localhost:5000 to start using the data structures and algorithms chatbot.
+
+## Technical Details
+
+### Libraries and Tools
+
+LangChain:
+- Document Loaders: PyMuPDFLoader, DirectoryLoader
+- Text Splitter: RecursiveCharacterTextSplitter
+- Embeddings: HuggingFaceEmbeddings
+- Vector Store: FAISS
+
+CTransformers: Loads and uses the Llama-2 language model.
+
+Flask: Web framework for the chatbot interface.
