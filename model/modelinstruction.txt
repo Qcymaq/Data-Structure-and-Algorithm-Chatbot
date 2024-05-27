@@ -1,5 +1,5 @@
 # Download Model
-# I have choosen 4bit model
+# I have choosen 5-bit model
 llama-2-7b-chat.ggmlv3.q5_1.bin
 
 # From the following link
