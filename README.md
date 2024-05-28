@@ -4,7 +4,11 @@ This project is a chatbot designed to provide information, explanations, and loo
 ## How to Use This Project
 To get started with this project, follow these steps:
 
-### Clone repo from github
+### Clone the repository from github
+```bash
+git clone https://github.com/Qcymaq/Data-Structure-and-Algorithm-Chatbot.git
+```
+#### If you have problem with RPC failed while cloning project: My method:git config --global http.postBuffer 524288000
 
 ### Download the Model:
 
