@@ -4,6 +4,8 @@ This project is a chatbot designed to provide information, explanations, and loo
 ## How to Use This Project
 To get started with this project, follow these steps:
 
+### Clone repo from github
+
 ### Download the Model:
 
 Refer to the modelinstruction.txt file located in the model folder of the project. This file contains instructions on how to download the necessary model for the chatbot.
@@ -12,12 +14,13 @@ Refer to the modelinstruction.txt file located in the model folder of the projec
 
 Download and install Anaconda from [here](https://www.anaconda.com/) if you haven't already.
 Open your terminal or command prompt.
+#### Notice : You need to add Conda to your PATH 
+
 Create a new Anaconda environment using the following command:
 
 ```bash
 conda create -n alchatbot python=3.11 -y
 ```
-
 Activate the Anaconda Environment:
 Activate the newly created environment by running:
 
