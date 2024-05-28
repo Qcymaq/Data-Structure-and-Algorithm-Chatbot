@@ -8,7 +8,10 @@ To get started with this project, follow these steps:
 ```bash
 git clone https://github.com/Qcymaq/Data-Structure-and-Algorithm-Chatbot.git
 ```
-#### If you have problem with RPC failed while cloning project: My method:git config --global http.postBuffer 524288000
+#### If you have problem with RPC failed while cloning project: My method:
+```bash
+git config --global http.postBuffer 524288000
+```
 
 ### Download the Model:
 
